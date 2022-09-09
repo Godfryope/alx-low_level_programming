@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - print single digit numbers
  * Desciption: print single digit numbers
  * Return: Always 0 (Success)
