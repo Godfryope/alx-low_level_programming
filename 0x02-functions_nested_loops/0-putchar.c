@@ -10,7 +10,7 @@ int main()
 
 	/* Write the Character to stdout */
 
-	putchar(ch);
+	_putchar(ch);
 
 	return(0);
 }
