@@ -25,8 +25,8 @@ int _isupper(int c)
 		{
 
 			isupper = 1;
-
-		}	
+			break;
+		}
 
 	}
 
