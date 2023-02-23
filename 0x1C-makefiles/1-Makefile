@@ -1,9 +1,7 @@
 CC=gcc
-SRC=main.c student.c teacher.c
-
+SRC=main.c school.c
 school: $(SRC)
 	$(CC) -o school $(SRC)
 
-.PHONY: all
 all: school
 
