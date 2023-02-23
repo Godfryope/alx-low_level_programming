@@ -1,0 +1,4 @@
+school: main.o student.o teacher.o
+    gcc -o school main.o student.o teacher.o
+
+all: school
