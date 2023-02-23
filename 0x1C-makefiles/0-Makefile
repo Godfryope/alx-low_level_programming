@@ -1,4 +1,7 @@
-school: main.o student.o teacher.o
-    gcc -o school main.o student.o teacher.o
+# -*- MakeFile -*-
+
+school: main.c school.c
+    gcc -o school.c main.c school 
 
 all: school
+
